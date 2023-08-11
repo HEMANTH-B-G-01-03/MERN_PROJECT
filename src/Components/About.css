@@ -43,3 +43,7 @@
   .breadcrumb-item.active {
     color: #666;
   }
+
+  .btn btn-primary mx-2{
+    padding-inline:700px;
+  }

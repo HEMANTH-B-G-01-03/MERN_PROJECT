@@ -51,13 +51,7 @@ const Navbar = () =>{
                 </div>
         </nav>
         <nav aria-label="breadcrumb">
-      <ol class="breadcrumb">
-    <li class="breadcrumb-item"><a href="#">Home</a></li>
-    <li class="breadcrumb-item"><a href="#">Menu</a></li>
-    <li class="breadcrumb-item"><a href="#">About</a></li>
-    <li class="breadcrumb-item"><a href="#">Contact</a></li>
-    <li class="breadcrumb-item active" aria-current="page">Subcategory</li>
-  </ol>
+   
 </nav>
        
         </>

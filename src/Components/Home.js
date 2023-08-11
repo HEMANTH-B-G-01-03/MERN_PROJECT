@@ -17,7 +17,7 @@ const Home = () => {
                          <img src={ca1} alt='' className='imgcar'></img>
                         <br/><br/><br/>
                         <Carousel.Caption className='car1 text-center'>
-                         <h5>The Bombay Thali</h5>
+                         <h5>The north indian Thali</h5>
             </Carousel.Caption>
             </Carousel.Item>
             <Carousel.Item className='car2 text-center'>
@@ -48,7 +48,7 @@ const Home = () => {
                 <div class="card-body">
                     <div class="card-title text-center"> <h4>The Ocean Pearl</h4><br/></div>
                     <p calss="card-content">The Ocean Pearl hotel at Mangalore combines classic luxury, modern indulgences and exquisite comfort set in a spectacular backdrop that includes a unique combination of breath-taking views combined with plush spaces and facilities, excellent service and a promise of enjoying Mangalore like never before....</p>
-                    <button class="btn btn-outline-success btn-sm"> Explore Now </button>
+                    <button class="btn btn-outline-success btn-sm" > Explore Now </button>
                 </div>
             </div>
         </div>
