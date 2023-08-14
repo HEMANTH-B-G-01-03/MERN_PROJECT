@@ -8,14 +8,14 @@ const Contact= () =>{
         <>
         <div className="bag1 justify-content-center align-items-center vh-100">
         <div class=" border border-1 border-dark text-center bg-primary-subtle my-2 mx-5 rounded ">
-       <br/> <h4>Foodies Head Office<br/>
+       <br/> <h4>Recipe Head Office<br/>
         432, Green Avenue,<br/>
         Mumbai,<br/>
         Maharashtra,<br/>
         India,<br/>
         Postal Code: 400001<br/>
         </h4> <br/><br/>
-        <h4>Foodies Branch Office<br/>
+        <h4>Recipie  Branch Office<br/>
         123, Main Street,<br/>
         Bangalore,<br/>
         Karnataka,<br/>

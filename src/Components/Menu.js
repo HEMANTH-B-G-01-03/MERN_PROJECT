@@ -16,7 +16,7 @@ const Menu = () =>{
                 <div class="card-body">
                     <div class="card-title text-center"> <h4>Paneer Gheeroast</h4></div>
                     <p calss="card-content">₹210 </p>
-                    <button class="btn btn-outline-success btn-sm"> Order Now </button>
+                    <button class="btn btn-outline-success btn-sm" > Order Now  </button>
                 </div>
             </div>
         </div>

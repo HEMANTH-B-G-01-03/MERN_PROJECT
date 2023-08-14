@@ -10,3 +10,19 @@
 .fullpage{
     background-color: blanchedalmond;
 }
+h5{
+    font-size:18pz;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:blueviolet;
+    font:bold;
+}
+h2{
+    font-size:18pz;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:green;
+    font:bold;  
+}
+.bb{
+    text-decoration: none;
+    color:orange;
+}

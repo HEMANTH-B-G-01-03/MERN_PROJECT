@@ -1,4 +1,6 @@
 import React, { useState } from "react";
+import { Link } from 'react-router-dom';
+
 import "./Signup.css";
 
 const Signup = () =>{
@@ -15,7 +17,9 @@ const Signup = () =>{
 
     //submit handler
     const submitHandler = (e) => {
-        alert("You are Signed In Successfully...😎");
+        alert("loggin sucesfull");
+        <link to="./Home.js"></link>
+        
     };
 
 
@@ -50,8 +54,8 @@ const Signup = () =>{
                  </label>
             </div>
             <div className="d-grid mb-3 px-5">
-                <button className="btn btn-success" type="submit"> 
-                Login
+                <button className="btn btn-success" type="submit" > 
+                 <a href="http://localhost:3000/" class="bb"> Login </a> 
                 </button>
             </div>
             </form>

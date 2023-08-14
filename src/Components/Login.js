@@ -42,8 +42,9 @@ const Login = () =>{
                  </label>
             </div>
             <div className="d-grid mb-3 px-5">
-                <button className="btn btn-success" type="submit"> 
-                Login
+                <button className="btn btn-success" type="submit" > 
+
+                <a href ="http://localhost:3000/" class="bb"> Login </a> 
                 </button>
             </div>
             </form>

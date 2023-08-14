@@ -12,7 +12,7 @@ const Navbar = () =>{
             <div className="container-fluid">
                 <Link className="navbar-brand" to="/">
                 <h1 class="text-danger"><img src="https://th.bing.com/th/id/OIP.zsYd5p5bW_RXuZh66GZFEwAAAA?pid=ImgDet&rs=1" alt=" " className="log2"></img>
-                    Foodies</h1>
+                    Recipies</h1>
                 </Link>
                 <div className="collapse navbar-collapse">
 
@@ -23,7 +23,7 @@ const Navbar = () =>{
                     </Link>
                     </li>
                     <li class="nav-item">
-                    <Link className="navbar-brand" to="/menu">
+                    <Link className="navbar-brand" to="/Menu">
                     Menu
                     </Link>
                     </li>
