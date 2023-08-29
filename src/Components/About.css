@@ -32,7 +32,7 @@
   
   .breadcrumb-item {
     display: inline-block;
-    margin-right: 4px;
+    margin-right: 2px;
    
   }
   
@@ -45,5 +45,16 @@
     color: #666;
   }
 .navbar-brand{
-padding-inline:50px;
+
+padding-right:50px;
+}
+.form-inline {
+  float:right;
+  padding-right:50px;
+}
+.btn btn-outline-success my-2 my-sm-0{
+  background-color: aqua;
+} 
+.text-danger{
+  padding-inline:15px;
 }
