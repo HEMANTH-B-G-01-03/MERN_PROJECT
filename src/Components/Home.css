@@ -26,3 +26,12 @@ h2{
     text-decoration: none;
     color:orange;
 }
+/* CSS for card hover effect */
+.card {
+    transition: transform 0.3s; /* Add a smooth transition for the transform property */
+  }
+  
+  .card:hover {
+    transform: scale(1.05); /* Increase the scale (expand) when hovering */
+  }
+  
